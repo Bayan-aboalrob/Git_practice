@@ -1,0 +1,2 @@
+chapter2: Git's Decision
+Git, after much contemplation, decided to leave his home in init to explore the vast world of version control 

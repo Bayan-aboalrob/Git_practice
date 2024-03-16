@@ -1,5 +1,5 @@
 once upon a time, in a village named "init", lived a brave
- adventurer named Git.
+ adventurer named Git, this change is added to make a merge conflict simulation.
 
 Git was well-known for his curiosity and eagerness to learn.
 He had one dream - to explore the mysterious world of the version control.

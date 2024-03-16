@@ -1,0 +1,2 @@
+chapter2 : Git's first step into the world of version control
+with a heavy heart and a bag full of hopes, Git took his first step into the world unknown

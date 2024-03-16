@@ -3,3 +3,5 @@ once upon a time, in a village named "init", lived a brave
 
 Git was well-known for his curiosity and eagerness to learn.
 He had one dream - to explore the mysterious world of the version control.
+ 
+this line has been changed to avoid fast forward merging!
